@@ -1,0 +1,124 @@
+#name-color{
+    color:deeppink;
+    font-weight:600;
+}
+h1{
+    font-size: 50px ;
+   
+   
+}
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height:500px;
+    padding-bottom: 300px;
+    padding-top: 200px;
+}
+p{
+    color:dimgrey;
+    
+}
+.half-part{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-part img{
+    width:100%;
+ 
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(45deg,pink, deeppink);/*lighter to brighter*/
+    padding:10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight:700;/*bold*/
+    
+}
+.top-part{
+    background-image:url("images/header-bg.png");
+    background-repeat:no-repeat;
+    background-position: left;
+    padding-bottom: 150px;
+}
+.bottom-part{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+    padding-top: 100px;
+    
+    
+    
+}
+#set-padding{
+    padding-top: 100px;
+}
+#work-center{
+    text-align:center;
+    font-size:40px;
+}
+.third-part{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+   padding:100px 50px 30px;
+}
+.imag{
+    width:30%;
+    margin:0;
+ 
+    
+}
+.fourth-part{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding:50px 200px 200px 200px;
+   
+}
+#middle{
+    text-align: center;
+    font-size: 40px;
+  
+     
+}
+.footerdiv{
+    text-align: center;
+    
+}
+h5{
+    color:dimgray;
+}
+.footer-paragraph{
+    text-align: center;
+    color:black;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+#box{
+  
+    text-decoration: none;
+    background-image: linear-gradient(45deg,deeppink,lightcoral);/*lighter to brighter*/
+    
+    border-radius: 10px;
+    color:white;
+    font-weight:600;/*bold*/
+    padding-top:20px;
+   
+   margin-left: 200px;
+   margin-right:200px;
+   
+
+}
+#last-one{
+    text-align: center;
+    font-size: 12px;
+    padding-top:0px;
+    padding-bottom: 50px;
+    
+    
+}
